@@ -107,7 +107,7 @@ nav {
 }
 /* hero styles starts here */
 .hero-container {
-  background: url(/img/bg-home-1.jpg) no-repeat, rgba(19, 16, 16, 0.95);
+  background: url(/YouTravo---Travel-Agency/img/bg-home-1.jpg) no-repeat, rgba(19, 16, 16, 0.95);
   background-size: cover;
   color: white;
   font-family: var(--header-fonts);
@@ -389,7 +389,7 @@ span.grid-img-header-underline {
 }
 .why-travel-about-container {
   min-height: 100vh;
-  background: url(/img/joshua-earle--87JyMb9ZfU-unsplash_1920x1098.jpg)
+  background: url(/YouTravo---Travel-Agency/img/joshua-earle--87JyMb9ZfU-unsplash_1920x1098.jpg)
       no-repeat,
     rgba(247, 243, 243, 0.35);
   background-size: cover;
